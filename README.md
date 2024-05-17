@@ -4,6 +4,7 @@ When you have a server that's essentially a dedicated server lying around idle a
 
 - 😂 Yes, it's like using Lanyard. It's a great project, so please go check it out.
 - ☁️ API cached by Cloudflare Edge (1 minute)
+- ⚡ Powered by Bun.js and Elysia.js
 - ⬆️ Your Discord status will be updated every time your request does not hit the cache.
 - 📨 The information we get from Discord, we just pass through it just like that.
 - 😲 IT JUST WORKS!
